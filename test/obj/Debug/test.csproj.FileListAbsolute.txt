@@ -1,0 +1,8 @@
+C:\Users\KiuAdmin\C#Projects\test\test\bin\Debug\test.exe.config
+C:\Users\KiuAdmin\C#Projects\test\test\bin\Debug\test.exe
+C:\Users\KiuAdmin\C#Projects\test\test\bin\Debug\test.pdb
+C:\Users\KiuAdmin\C#Projects\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\KiuAdmin\C#Projects\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\KiuAdmin\C#Projects\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\KiuAdmin\C#Projects\test\test\obj\Debug\test.exe
+C:\Users\KiuAdmin\C#Projects\test\test\obj\Debug\test.pdb
